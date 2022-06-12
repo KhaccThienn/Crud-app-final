@@ -1,0 +1,24 @@
+.cardContainer{
+    color: white;
+    width: 75%;
+    margin: 100px auto;
+}
+.formControl{
+    display: flex;
+}
+.formControl{
+    width: 60%;
+    margin: 0 auto;
+}
+.formControl input{
+    width: 100%;
+}
+.formControl input,
+.formControl button{
+    padding: 7px;
+    border-radius: 10px;
+}
+.table{
+    margin-top: 20px;
+    width: 100%;
+}
